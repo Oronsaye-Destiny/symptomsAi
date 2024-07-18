@@ -48,13 +48,15 @@ header {
   color: #FFFFFF;
   scroll-behavior: smooth;
   position: relative;
+  /* width: 1300px;
+  margin: 0 auto; */
 }
 
 .head {
   display: flex;
   align-items: center;
   gap: 7px;
-  color:#002366
+  color:#002366;
 }
 
 .head p{
